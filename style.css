@@ -4,15 +4,11 @@ h1 {
 }
 p
 {
-    color: yellow;
+    color: blue ;
     font-size: 16px;
 }
 h4 {
-<<<<<<< HEAD
     color: red;
-=======
-    color: red ;
->>>>>>> 04a5ce1b89accf17ac9cfa074a68a1fa371f8039
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
